@@ -55,7 +55,7 @@ The notebook generates results and evaluation metrics for the trained segmentati
 
 | Simple-UNet predictions               | Multi-UNet predictions                   |
 |---------------------------------------|------------------------------------------|
-| ![Alt Text 1](Output/Simple.png)  | ![Alt Text 2](Result/Output/Multi.png) |
+| ![Alt Text 1](Output/Simple.png)  | ![Alt Text 2](Output/Multi.png) |
 
 
 ## Contributing
