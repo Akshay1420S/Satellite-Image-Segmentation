@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README.md file content for a Google Colab project:
-
 # Satellite Image Segmentation
 
 This project focuses on satellite image segmentation using deep learning techniques. The goal is to accurately classify and segment different objects and regions within satellite imagery, enabling various applications such as land cover mapping, urban planning, and environmental monitoring.
@@ -34,6 +32,17 @@ The dataset used for this project consists of satellite imagery and correspondin
 Ensure that the images and masks have the same filenames and are aligned correctly.
 
 I have added the dataset in this repository.
+
+| Original Images and Masks                                                 |  
+|---------------------------------------------------------------------------|
+| ![Alt Text 1](Images/Dataset_original_Image.png)                          |
+| ![Alt Text 1](Images/Dataset_original_Image_2.png)                        |
+
+| Patches of Original images and mask                                                 |  
+|---------------------------------------------------------------------------|
+| ![Alt Text 1](Images/patch.png)                          |
+
+
 
 ## Model Architecture
 
