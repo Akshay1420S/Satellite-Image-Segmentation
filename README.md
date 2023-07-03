@@ -49,7 +49,7 @@ The notebook generates results and evaluation metrics for the trained segmentati
 
 | Simple-UNet loss                      | Simple-UNet IoU                          | Multi-UNet loss                      | Multi-UNet IoU                           |
 |---------------------------------------|------------------------------------------|--------------------------------------|------------------------------------------|
-| ![Alt Text 1](Result/evaluation.png)  | ![Alt Text 2](Result/evaluation IoU.png) | ![Alt Text 3](Result/eval_multi.png) | ![Alt Text 4](Result/eval_IoU_multi.png) |
+| ![Alt Text 1](Result/evaluation.png)  | ![Alt Text 2](Result/evaluation-IoU.png) | ![Alt Text 3](Result/eval_multi.png) | ![Alt Text 4](Result/eval_IoU_multi.png) |
 
 #Output Images :
 
